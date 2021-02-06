@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+<meta name="description" content="Image links">
+<title> Module 01 </title> 
+</head> 
+
+<body> 
+<h1>Intro to HTML </h1> 
+
+<figure> 
+<a href="https://therecipecritic.com/skillet-garlic-butter-herb-steak-and-potatoes/">
+<img src = "https://therecipecritic.com/wp-content/uploads/2017/10/skilletgarlicbutterherbsteakpotatoes-1-of-1.jpg" alt = "receipe" title = "receipe" width="500" /> </a>
+<p> 
+<figcaption>A truly good recipe for steak and potatoes  </figcaption> 
+
+</p> 
+</figure> 
+
+<h4> More Recipes</h>
+<p> 
+<a href = "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2019%2F09%2F1115264.jpg&w=640&h=428&c=sc&poi=face&q=85"><img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2019%2F09%2F1115264.jpg&w=640&h=428&c=sc&poi=face&q=85" alt="12 recipes" title="recipe" /> </a> 
+<a href = "https://www.foodnetwork.com/recipes/photos/foodnetwork-top-50-most-saved-recipes"><img src="https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/8/26/1/WU0805H_Brown-Sugar-Oatmeal-Cookies_s4x3.jpg.rend.hgtvcom.966.725.suffix/1532374996579.jpeg" alt ="x" title="cookies" /> </a>
+<a href = "https://www.foodnetwork.com/recipes/photos/foodnetwork-top-50-most-saved-recipes"><img src=" https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/3/21/0/WU0410H_pan-fried-pork-chops-recipe_s4x3.jpg.rend.hgtvcom.966.725.suffix/1384789067362.jpeg" alt = "x" title="Pork Chops" /> </a>
+<a href = "https://sallysbakingaddiction.com/homemade-artisan-bread/"> <img src="https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/12/homemade-artisan-bread-2-1024x1536.jpg"  alt = "x" title="bread" /> </a>
+<a href = "https://www.themediterraneandish.com/baked-fish-recipe/"> <img src="https://www.themediterraneandish.com/wp-content/uploads/2020/03/baked-fish-recipe-3.jpg" alt = "x" title="fish" /> </a>
+</body> 
+</html> 
