@@ -1,8 +1,9 @@
 <html> 
   <head> 
     <title>home page</title>
+     <link href="https://github.com/VOLR001/Portfolio/commit/fbf221260493c53e523ae362fd078b540c9b4863" rel="stylesheet" type="text/css">
   </head> 
-  <link href="https://github.com/VOLR001/Portfolio/commit/fbf221260493c53e523ae362fd078b540c9b4863" rel="stylesheet" type="text/css"> 
+  
   <body> 
   <div id="wrap">
 
@@ -10,7 +11,6 @@
 <h1>Coltons work so far! <h1>
 <h2>provided that he actually did the assignment...</h2>
 </div>
-
 <div id="topmenu">
 <div class="search">
 <input type="text" style="width:220px">
