@@ -22,6 +22,8 @@
   <li><a href="https://github.com/VOLR001/Portfolio/commit/fbf221260493c53e523ae362fd078b540c9b4863 " target="_blank"><button>Creative Page</button></a></li>
   <li><a href="https://github.com/VOLR001/Portfolio/commit/c7e716b34fae4e913f1307117878cd4ceb82a946" target="_blank"><button>Previous class</button></a></li>
   <li><a href="https://github.com/VOLR001/Portfolio/commit/63522ed9e88de2f4cf8144780d20e4c357d8680c" target="_blank"><button>Contact me</button></a></li>
+  <li><a href="" target="_blank"><button>Thank You!</button></a></li>
+
 </ul>
 </div>
 <h2> Programming 109 </h2> 
@@ -53,14 +55,14 @@
 <h3>Welcome to Coltons Bellevue College portfolio!</h3>
 <ul>
 <li><img src="https://www.bing.com/images/search?view=detailV2&ccid=7yJrVcaC&id=39C466EF40E69FDA6CBCCF2CCD657DC13D99B2F3&thid=OIP.7yJrVcaC3_-tqlLEQ9iYHgHaHm&mediaurl=https%3a%2f%2fwww.mascotdb.com%2fsites%2fdefault%2ffiles%2fimages%2flogos%2f126309.jpg&exph=594&expw=579&q=bellevue+college+mascot&simid=608014511925430216&ck=A29FF5CF248B0631FDBA2C07B8E40865&selectedIndex=2&adlt=strict&FORM=IRPRST" alt="bulldog"></li>
-<li><a href="https://www.t3ma.com/">My Family Martial arts</a></li>
+<li><a href="https://www.t3ma.com/" target="_blank">My Family Martial arts</a></li>
 
 </ul>
 
 <h3>Helpful youtube references</h3>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=3T4BsrBISnI">CSS styling basics</a></li>
-<li><a href="https://www.youtube.com/watch?v=cFXOq27IdV8">How to build hyperlinks</a></li>
+<li><a href="https://www.youtube.com/watch?v=3T4BsrBISnI" target="_blank">CSS styling basics</a></li>
+<li><a href="https://www.youtube.com/watch?v=cFXOq27IdV8" target="_blank" >How to build hyperlinks</a></li>
 </ul>
 
 </div>
@@ -71,10 +73,10 @@
 
 <div class="left">
 
-<p><a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88"></a>&nbsp;
+<p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Strict" height="31" width="88"></a>&nbsp;
 
 <!-- W3C CSS Validator -->
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
+<a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
     <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!">
 </a>
 </p>
