@@ -1,10 +1,11 @@
 <html> 
   <head> 
-         <link href="css-sheet.css" rel="stylesheet" type="text/css">
-//any and all links are not working with Github
-    //assuming it cannot read the target="_blank" and all my formating is correct 
+  <link href="https://github.com/VOLR001/Portfolio/blob/main/css-sheet.css" rel="stylesheet" type="text/css">
+
+/*any and all links are not working with Github
+    assuming it cannot read the target="_blank" and all my formating is correct */
     
-    <title>home page</title>
+ <title>home page</title>
   </head> 
   
   <body> 
@@ -22,11 +23,11 @@
 <ul>
   //buttons do not appear - because of style sheet not working? 
   <li><a href="https://volr001.github.io/Portfolio/" target="_blank"><button>Home </button></a></li>
-  <li><a href="https://github.com/VOLR001/Portfolio/commit/6cf44bd5c0671adadc4b5f5b49a01312ac43eb97" target="_blank"><button>Module</button></a></li>
-  <li><a href="https://github.com/VOLR001/Portfolio/commit/fbf221260493c53e523ae362fd078b540c9b4863 " target="_blank"><button>Creative Page</button></a></li>
-  <li><a href="https://github.com/VOLR001/Portfolio/commit/c7e716b34fae4e913f1307117878cd4ceb82a946" target="_blank"><button>Previous class</button></a></li>
-  <li><a href="https://github.com/VOLR001/Portfolio/commit/63522ed9e88de2f4cf8144780d20e4c357d8680c" target="_blank"><button>Contact me</button></a></li>
-  <li><a href="https://github.com/VOLR001/Portfolio/commit/295a79f34ae3551244fe7e301b1d8f217fffda45" target="_blank"><button>Thank You!</button></a></li>
+  <li><a href="https://github.com/VOLR001/Portfolio/blob/main/modulehome.html" target="_blank"><button>Modules</button></a></li>
+  <li><a href="https://github.com/VOLR001/Portfolio/blob/main/creative.html" target="_blank"><button>Creative Page</button></a></li>
+  <li><a href="https://github.com/VOLR001/Portfolio/blob/main/PreviousClass.html" target="_blank"><button>Previous class</button></a></li>
+  <li><a href="https://github.com/VOLR001/Portfolio/blob/main/ContactMe.html" target="_blank"><button>Contact me</button></a></li>
+  <li><a href="https://github.com/VOLR001/Portfolio/blob/main/ThankYou.html" target="_blank"><button>Thank You!</button></a></li>
 
 </ul>
 </div>
