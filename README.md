@@ -1,11 +1,11 @@
 <html> 
   <head> 
+    <title>home page</title>
   <link href="https://github.com/VOLR001/Portfolio/blob/main/css-sheet.css" rel="stylesheet" type="text/css">
 
-/*any and all links are not working with Github
-    assuming it cannot read the target="_blank" and all my formating is correct */
+
     
- <title>home page</title>
+ 
   </head> 
   
   <body> 
@@ -21,7 +21,6 @@
 <input type="submit" value="Search">
 </div>
 <ul>
-  //buttons do not appear - because of style sheet not working? 
   <li><a href="https://volr001.github.io/Portfolio/" target="_blank"><button>Home </button></a></li>
   <li><a href="https://github.com/VOLR001/Portfolio/blob/main/modulehome.html" target="_blank"><button>Modules</button></a></li>
   <li><a href="https://github.com/VOLR001/Portfolio/blob/main/creative.html" target="_blank"><button>Creative Page</button></a></li>
