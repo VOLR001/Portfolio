@@ -1,6 +1,6 @@
 <html> 
   <head> 
-         <link href="css.sheet.css" rel="stylesheet" type="text/css">
+         <link href="css-sheet.css" rel="stylesheet" type="text/css">
 
     <title>home page</title>
   </head> 
